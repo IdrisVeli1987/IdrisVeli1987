@@ -18,10 +18,8 @@ Latest YouTube Videos
 ![Jira](https://img.shields.io/badge/Jira-<COLOR>?style=for-the-badge&logo=Jira)
 ![TestRail](https://img.shields.io/badge/TestRail-<COLOR>?style=for-the-badge&logo=TestRail)
 
+## Follow me
+[![YouTube](https://img.shields.io/badge/YouTube-<COLOR>?style=for-the-badge&logo=YouTube)](https://www.youtube.com/@idrisveliev)
+[![Telegram](https://img.shields.io/badge/Telegram-<COLOR>?style=for-the-badge&logo=Telegram)](https://t.me/Next8585)
+[![Linkedin](https://img.shields.io/badge/Linkedin-<COLOR>?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/idris-veliyev/)
 
-
-Follow me
-
-
-
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>

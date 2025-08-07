@@ -1,6 +1,6 @@
 [![Header](https://github.com/IdrisVeli1987/IdrisVeli1987/blob/main/assets/header.gif)](https://www.youtube.com/@idrisveliev)
 
-About me
+## I'm a beginner Sofrware Engeener
 
 Latest YouTube Videos
 
